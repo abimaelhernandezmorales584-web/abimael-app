@@ -2,3 +2,4 @@ streamlit
 streamlit-webrtc
 opencv-python-headless
 numpy
+tornado==6.3.3
